@@ -1,2 +1,13 @@
-primer modificacion
+//subir primer archivo
+git init
+git status
+git add <file_name>
+git status
+git commit -m <"comentario">
+git remote add origin <https://github.com/OSCARMEDINAZ/test.git>
+git push -u origin master
+
+
+
+//bajar primer modificacion
 git pull origin master
